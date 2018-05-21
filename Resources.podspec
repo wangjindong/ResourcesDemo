@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
     spec.name         = 'Resources'
     spec.version      = '0.0.1'
-    spec.summary      = 'suning'
+    spec.summary      = 'jd'
     spec.homepage     = "http://www.baidu.com"
     spec.license      = "MIT"
     spec.author       = { "wangjindong" => "419591321@qq.com" }
